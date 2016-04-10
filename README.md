@@ -20,7 +20,8 @@ Prezentacje przewidujemy na 15-30 min. Lighting talki do 10 min, nie trzeba ich 
 
 1. **Zrozumieć JavaScript #1: Prototypy i klasy** - Michał Załęcki  
 2. **Zróbmy sobie Mariana - szybkie prototypowanie gier w Phaser** - Michał Pietraszko
-3. *tutaj może znaleźć się Twoje nazwisko*
+3. **Wykładam kawę na ławę - czym jest CoffeeScript?** - Adam Urban
+Lightning talks
 4. *Lightning talks*
 
 
@@ -37,3 +38,9 @@ Prelegent: [Michał Załęcki](michalzalecki.com)
 Wstęp do frameworka Phaser i idei prototypowania na przykładzie klona przygód hydraulika z ery pegazusa.
 
 Prelegent: [Michał Pietraszko](harsay.com)
+
+### Wykładam kawę na ławę - czym jest CoffeeScript?
+
+Podstawy języka i przygotowanie środowiska do wygodnego programowania w CoffeeScript.
+
+Prelegent: [Adam Urban](https://github.com/ezrepotein)
